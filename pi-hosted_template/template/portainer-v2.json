@@ -4149,7 +4149,7 @@
 					"name": "PGID"
 				},
 				{
-					"default": "America/New_York",
+					"default": "Europe/Copenhagen",
 					"label": "TZ",
 					"name": "TZ"
 				},
